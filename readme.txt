@@ -2,7 +2,7 @@ hello world wifi wifi
 now is in feature/wifi
 feature/wif
 test pull
-dev 提交1 feature1在此处造作 feature2在此作妖 feature1在此处修改 修改2
+dev 提交1 feature1在此处造作 feature2在此作妖 bugfix修复1 feature1在此处修改 修改2
 feature2{
     feature2功能2-1 
     feature2功能2-2 
